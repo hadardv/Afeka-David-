@@ -51,6 +51,13 @@
     margin: 5px 0;
     transition: 0.2s ease;
 }
+.map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 120px;
+}
 
 
 .images-santorini {
